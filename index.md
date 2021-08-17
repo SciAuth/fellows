@@ -2,6 +2,9 @@ The [SciAuth](https://sciauth.org/) fellows program pairs students from U.S. hig
 
 Each fellow proposes a research project (either selected from a [list of example projects](https://github.com/SciAuth/fellows/issues) or proposed by the fellow) related to the topic of authorization for scientific collaborations. Each fellow pursues their research project over a 12 week period with one of the project co-PIs (Basney, Bockelman, or Weitzel) assigned as a mentor. Fellows are selected via a competitive application process according to the strength of the proposed project, the academic preparation of the student, and the diversity of the applicants. Fellows will also meet regularly as a group to share their research progress and results. Fellows each receive a $1,000 stipend to support their research.
 
-The call for applications for the 2021 SciAuth fellows program will be posted here soon.
+Program requirements:
+* Applicants must be currently enrolled at an accredited U.S. higher education institution.
+
+The call for applications for the 2021 SciAuth fellows program along with detailed application instructions will be posted here soon.
 
 The SciAuth fellows program was inspired by the [IRIS-HEP Fellows Program](https://iris-hep.org/fellows).

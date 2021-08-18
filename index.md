@@ -4,6 +4,7 @@ Each fellow proposes a research project (either selected from a [list of example
 
 Program requirements:
 * Applicants must be currently enrolled at an accredited U.S. higher education institution.
+* Applicants must be a U.S. citizen or permanent resident.
 
 The call for applications for the 2021 SciAuth fellows program along with detailed application instructions will be posted here soon.
 

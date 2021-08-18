@@ -6,6 +6,6 @@ Program requirements:
 * Applicants must be currently enrolled at an accredited U.S. higher education institution.
 * Applicants must be a U.S. citizen or permanent resident.
 
-The call for applications for the 2021 SciAuth fellows program along with detailed application instructions will be posted here soon.
+The call for applications for the 2022 SciAuth fellows program along with detailed application instructions will be posted here soon.
 
 The SciAuth fellows program was inspired by the [IRIS-HEP Fellows Program](https://iris-hep.org/fellows).

@@ -4,15 +4,16 @@ Each fellow proposes a research project (either selected from a [list of example
 
 Program requirements:
 * Applicants must be currently enrolled at an accredited U.S. higher education institution.
-* Applicants must reside in the United States.
+* Applicants must reside in the United States during the 12 week project period.
+* Travel is not required. All fellows program activities are conducted online.
 
 To apply, send an application by email to [fellows@sciauth.org](mailto:fellows@sciauth.org) containing the following:
 * (Required) A short curriculum vitae (CV). Please include current educational status, current residence (U.S. state or territory), and any relevant coursework and/or previous relevant projects and activities.
-* (Required) A short proposal. In the proposal you should briefly describe the cyberinfrastructure security research project that you would like to pursue, and how that project relates to your academic/professional interests. The proposal should be short, typically no more than 1-2 pages containing the project description and a short timeline with (preferred) start/end dates and monthly deliverables for the 3 month (12 week period).
-* (Optional) A short diversity statement. If desired, please provide a short paragraph indicating how your participation would broaden participation from underrepresented groups and diverse institutions across geographical regions in NSF activities. See [Broadening Participation at NSF](https://www.nsf.gov/od/broadeningparticipation/bp.jsp) for guidance on this topic.
+* (Required) A short proposal. In the proposal you should briefly describe the cyberinfrastructure security research project that you would like to pursue, and how that project relates to your academic/professional interests. The proposal should be short, typically no more than 1-2 pages containing the project description and a short timeline with (preferred) start/end dates and monthly deliverables for the 3 month (12 week) period.
+* (Optional) A short diversity statement. If desired, please provide a short paragraph explaining how your participation would broaden participation from underrepresented groups and diverse institutions across geographical regions. See [Broadening Participation at NSF](https://www.nsf.gov/od/broadeningparticipation/bp.jsp) for guidance on this topic.
 
-If you have any questions about the application process, including possible project ideas, please do not hesitate to contact us at [fellows@sciauth.org](mailto:fellows@sciauth.org).
+If you have any questions about the application process or would like to discuss possible project ideas, please contact us at [fellows@sciauth.org](mailto:fellows@sciauth.org). If you don't receive a prompt reply, please contact [jbasney@illinois.edu](mailto:jbasney@illinois.edu).
 
-Fellows will be selected on a rolling fashion based on submitted project proposals. All proposals submitted by Monday, October 4, 2021, will receive full consideration.
+Fellows will be selected on a rolling fashion based on submitted applications. All applications submitted by Monday, October 4, 2021 will receive full consideration.
 
 The SciAuth fellows program was inspired by the [IRIS-HEP Fellows Program](https://iris-hep.org/fellows) and the [Trusted CI Fellows Program](https://trustedci.org/fellows).

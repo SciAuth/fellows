@@ -1,6 +1,6 @@
 **The SciAuth student fellows program is currently accepting applications. See below for details.**
 
-The [SciAuth](https://sciauth.org/) fellows program pairs students from U.S. higher education institutions with project mentors to collaborate on student-led projects on the topic of authorization for scientific collaborations using [JSON Web Tokens](https://jwt.io). The program supports 6 student fellows per year (18 total from July 2021 to June 2024), with an emphasis on recruiting participants from under-represented communities.
+The [SciAuth](https://sciauth.org/) fellows program pairs students from U.S. higher education institutions with project mentors to collaborate on student-led projects on the topic of authentication and authorization for scientific collaborations using [JSON Web Tokens](https://jwt.io). The program supports 6 student fellows per year (18 total from July 2021 to June 2024), with an emphasis on recruiting participants from under-represented communities.
 
 Each student fellow proposes a research project (either selected from a [list of example projects](https://github.com/SciAuth/fellows/issues) or proposed by the fellow) related to the topic of authorization for scientific collaborations. See [https://scitokens.org](https://scitokens.org) for background on this topic. Each fellow pursues their research project remotely over a 12 week period with a member of the SciAuth team (Basney, Bockelman, or Weitzel) providing guidance (i.e., via weekly Zoom calls) as a project mentor.
 

@@ -7,7 +7,7 @@ Each student fellow proposes a research project (either selected from a [list of
 Fellows are selected via a competitive application process according to the strength of the proposed project, the academic preparation of the student, and the diversity of the applicants. Fellows will also meet regularly as a group to share their research progress and results. Fellows each receive a $1,000 stipend ($333.33 per month for 3 months) to support their research.
 
 Program requirements:
-* Applicants must be currently enrolled at an accredited U.S. higher education institution.
+* Applicants must be currently enrolled at an accredited U.S. higher education institution. Both graduate and undergraduate students are eligible.
 * Applicants must reside in the United States during the 12 week project period (schedule to be determined by fellow and mentor).
 * Travel is not required. All fellows program activities are conducted online.
 

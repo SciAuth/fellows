@@ -18,7 +18,7 @@ To apply, send an application by email to [fellows@sciauth.org](mailto:fellows@s
 
 If you have any questions about the application process or would like to discuss possible project ideas, please contact us at [fellows@sciauth.org](mailto:fellows@sciauth.org). Asking questions prior to submitting your application is encouraged. If you don't receive a prompt reply, please contact [jbasney@illinois.edu](mailto:jbasney@illinois.edu). We've also given some answers to frequently asked questions below.
 
-Fellows will be selected on a rolling fashion based on submitted applications. All applications submitted by Monday, October 4, 2021 will receive full consideration.
+Fellows will be selected on a rolling fashion based on submitted applications. We are currently accepting applications for 2022.
 
 The SciAuth fellows program was inspired by the [IRIS-HEP Fellows Program](https://iris-hep.org/fellows) and the [Trusted CI Fellows Program](https://trustedci.org/fellows).
 

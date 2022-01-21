@@ -1,4 +1,11 @@
-**The SciAuth student fellows program is currently accepting applications. See below for details.**
+The **Spring 2022 SciAuth student fellows** are:
+* Arif Arifuzzaman (University of Nevada, Reno)
+* Christopher Moppel (Grinnell College)
+* Linh Tang (Grinnell College)
+* Michael Mason (University of Nebraska-Lincoln)
+* Yolanda Jiang (Grinnell College)
+
+**The SciAuth student fellows program is currently accepting applications for Fall 2022. See below for details.**
 
 The [SciAuth](https://sciauth.org/) fellows program pairs students from U.S. higher education institutions with project mentors to collaborate on student-led projects on the topic of authentication and authorization for scientific collaborations using [JSON Web Tokens](https://jwt.io). The program supports 6 student fellows per year (18 total from July 2021 to June 2024), with an emphasis on recruiting participants from under-represented communities.
 

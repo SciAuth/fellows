@@ -1,5 +1,5 @@
 The **Spring 2022 SciAuth student fellows** are:
-* Arif Arifuzzaman (University of Nevada, Reno) - see: [project report](https://github.com/SciAuth/fellows/SciAuth-Spring2022-Arifuzzaman.pdf)
+* Arif Arifuzzaman (University of Nevada, Reno) - see: [project report](https://sciauth.org/fellows/SciAuth-Spring2022-Arifuzzaman.pdf)
 * Christopher Moppel (Grinnell College)
 * Linh Tang (Grinnell College) - see: [project repo](https://github.com/SciAuth/rest-demo)
 * Michael Mason (University of Nebraska-Lincoln)

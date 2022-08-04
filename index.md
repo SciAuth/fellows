@@ -1,4 +1,4 @@
-The **Spring 2022 SciAuth student fellows** are:
+The **Spring 2022 SciAuth student fellows** were:
 * Arif Arifuzzaman (University of Nevada, Reno) - see: [project report](https://sciauth.org/fellows/SciAuth-Spring2022-Arifuzzaman.pdf)
 * Christopher Moppel (Grinnell College)
 * Linh Tang (Grinnell College) - see: [project repo](https://github.com/SciAuth/rest-demo)
@@ -25,7 +25,7 @@ To apply, send an application by email to [fellows@sciauth.org](mailto:fellows@s
 
 If you have any questions about the application process or would like to discuss possible project ideas, please contact us at [fellows@sciauth.org](mailto:fellows@sciauth.org). Asking questions prior to submitting your application is encouraged. If you don't receive a prompt reply, please contact [jbasney@illinois.edu](mailto:jbasney@illinois.edu). We've also given some answers to frequently asked questions below.
 
-We are currently accepting applications for Fall 2022.
+We are currently accepting applications for Fall 2022. For full consideration, please submit your application by August 15.
 
 The SciAuth fellows program was inspired by the [IRIS-HEP Fellows Program](https://iris-hep.org/fellows) and the [Trusted CI Fellows Program](https://trustedci.org/fellows).
 

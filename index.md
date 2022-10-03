@@ -1,3 +1,12 @@
+The **Fall 2022 SciAuth student fellows** are:
+* Anh Vu (Grinnell College)
+* Bach Hoang (University of Illinois at Urbana-Champaign)
+* Do Nam (Grinnell College)
+* Quang Le (Grinnell College)
+* Quynh Dao (Grinnell College)
+* Raqib Islam (University of North Carolina at Charlotte)
+* Sai Lamba Karanam (University of Nebraska-Lincoln)
+
 The **Spring 2022 SciAuth student fellows** were:
 * Arif Arifuzzaman (University of Nevada, Reno) - see: [project report](https://sciauth.org/fellows/SciAuth-Spring2022-Arifuzzaman.pdf)
 * Christopher Moppel (Grinnell College)

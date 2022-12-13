@@ -4,7 +4,7 @@ The **Fall 2022 SciAuth student fellows** are:
 * Do Nam (Grinnell College)
 * Quang Le (Grinnell College)
 * Quynh Dao (Grinnell College)
-* Raqib Islam (University of North Carolina at Charlotte) - see [Raqib_Islam_final_presentation_fall22.pdf](https://sciauth.org/fellows/Raqib_Islam_final_presentation_fall22.pdf)
+* Raqib Islam (University of North Carolina at Charlotte) - see [project presentation](https://sciauth.org/fellows/Raqib_Islam_final_presentation_fall22.pdf)
 * Sai Lamba Karanam (University of Nebraska-Lincoln)
 
 The **Spring 2022 SciAuth student fellows** were:

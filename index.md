@@ -1,6 +1,6 @@
 The **Fall 2022 SciAuth student fellows** are:
 * Anh Vu (Grinnell College)
-* Bach Hoang (University of Illinois at Urbana-Champaign)
+* Bach Hoang (University of Illinois at Urbana-Champaign) - see [project presentation](https://sciauth.org/fellows/Bach_Hoang_final_presentation.pdf)
 * Do Nam (Grinnell College)
 * Quang Le (Grinnell College)
 * Quynh Dao (Grinnell College)

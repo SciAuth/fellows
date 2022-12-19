@@ -14,8 +14,6 @@ The **Spring 2022 SciAuth student fellows** were:
 * Michael Mason (University of Nebraska-Lincoln)
 * Yolanda Jiang (Grinnell College) - see: [project repo](https://github.com/SciAuth/rest-demo)
 
-**The SciAuth student fellows program is currently accepting applications for Spring 2023. See below for details.**
-
 The [SciAuth](https://sciauth.org/) fellows program pairs students from U.S. higher education institutions with project mentors to collaborate on student-led projects on the topic of authentication and authorization for scientific collaborations using [JSON Web Tokens](https://jwt.io). The program supports 6 student fellows per year (18 total from July 2021 to June 2024), with an emphasis on recruiting participants from under-represented communities.
 
 Each student fellow proposes a research project (either selected from a [list of example projects](https://github.com/SciAuth/fellows/issues) or proposed by the fellow) related to the topic of authentication and authorization for scientific collaborations. See [https://scitokens.org](https://scitokens.org) for background on this topic. Each fellow pursues their research project remotely over a 12 week period with a member of the SciAuth team (Basney, Bockelman, or Weitzel) providing guidance (i.e., via weekly Zoom calls) as a project mentor.
@@ -33,8 +31,6 @@ To apply, send an application by email to [fellows@sciauth.org](mailto:fellows@s
 * (Optional) A short diversity statement. If desired, please provide a short paragraph explaining how your participation would broaden participation from underrepresented groups and/or diverse institutions across geographical regions. See [Broadening Participation at NSF](https://www.nsf.gov/od/broadeningparticipation/bp.jsp) for guidance on this topic.
 
 If you have any questions about the application process or would like to discuss possible project ideas, please contact us at [fellows@sciauth.org](mailto:fellows@sciauth.org). Asking questions prior to submitting your application is encouraged. If you don't receive a prompt reply, please contact [jbasney@illinois.edu](mailto:jbasney@illinois.edu). We've also given some answers to frequently asked questions below.
-
-We are currently accepting applications for Spring 2023. For full consideration, please submit your application by December 16.
 
 The SciAuth fellows program was inspired by the [IRIS-HEP Fellows Program](https://iris-hep.org/fellows) and the [Trusted CI Fellows Program](https://trustedci.org/fellows).
 

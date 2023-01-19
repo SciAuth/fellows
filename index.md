@@ -1,4 +1,12 @@
-The **Fall 2022 SciAuth student fellows** are:
+**The SciAuth student fellows program is currently accepting applications for Fall 2023. See below for details.**
+
+The **Spring 2023 SciAuth student fellows** are:
+* Connor Durkin (Grinnell College)
+* Hieu Tran (Case Western Reserve University)
+* Jobair Hossain Faruk (Kennesaw State University)
+* Uyen Le (Denison University)
+
+The **Fall 2022 SciAuth student fellows** were:
 * Anh Vu (Grinnell College)
 * Bach Hoang (University of Illinois at Urbana-Champaign) - see [project presentation](https://sciauth.org/fellows/Bach_Hoang_final_presentation.pdf)
 * Do Nam (Grinnell College)
@@ -31,6 +39,8 @@ To apply, send an application by email to [fellows@sciauth.org](mailto:fellows@s
 * (Optional) A short diversity statement. If desired, please provide a short paragraph explaining how your participation would broaden participation from underrepresented groups and/or diverse institutions across geographical regions. See [Broadening Participation at NSF](https://www.nsf.gov/od/broadeningparticipation/bp.jsp) for guidance on this topic.
 
 If you have any questions about the application process or would like to discuss possible project ideas, please contact us at [fellows@sciauth.org](mailto:fellows@sciauth.org). Asking questions prior to submitting your application is encouraged. If you don't receive a prompt reply, please contact [jbasney@illinois.edu](mailto:jbasney@illinois.edu). We've also given some answers to frequently asked questions below.
+
+We are currently accepting applications for Fall 2023. For full consideration, please submit your application by August 15.
 
 The SciAuth fellows program was inspired by the [IRIS-HEP Fellows Program](https://iris-hep.org/fellows) and the [Trusted CI Fellows Program](https://trustedci.org/fellows).
 

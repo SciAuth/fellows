@@ -9,7 +9,7 @@ The **Spring 2023 SciAuth student fellows** are:
 The **Fall 2022 SciAuth student fellows** were:
 * Anh Vu (Grinnell College)
 * Bach Hoang (University of Illinois at Urbana-Champaign) - see [project presentation](https://sciauth.org/fellows/Bach_Hoang_final_presentation.pdf)
-* Do Nam (Grinnell College)
+* Nam Do (Grinnell College)
 * Quang Le (Grinnell College)
 * Quynh Dao (Grinnell College)
 * Raqib Islam (University of North Carolina at Charlotte) - see [project presentation](https://sciauth.org/fellows/Raqib_Islam_final_presentation_fall22.pdf)

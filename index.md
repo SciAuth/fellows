@@ -1,6 +1,6 @@
 **The SciAuth student fellows program is currently accepting applications for Fall 2023. See below for details.**
 
-The **Spring 2023 SciAuth student fellows** are:
+The **Spring 2023 SciAuth student fellows** were:
 * Connor Durkin (Grinnell College)
 * Hieu Tran (Case Western Reserve University)
 * Jobair Hossain Faruk (Kennesaw State University)
@@ -16,7 +16,7 @@ The **Fall 2022 SciAuth student fellows** were:
 * Sai Lamba Karanam (University of Nebraska-Lincoln)
 
 The **Spring 2022 SciAuth student fellows** were:
-* Arif Arifuzzaman (University of Nevada, Reno) - see: [project report](https://sciauth.org/fellows/SciAuth-Spring2022-Arifuzzaman.pdf)
+* Arif Arifuzzaman (University of Nevada, Reno) - see: [project report](https://sciauth.org/fellows/SciAuth-Spring2022-Arifuzzaman.pdf) and [related publication](https://doi.org/kdps)
 * Christopher Moppel (Grinnell College)
 * Linh Tang (Grinnell College) - see: [project repo](https://github.com/SciAuth/rest-demo)
 * Michael Mason (University of Nebraska-Lincoln)

@@ -1,3 +1,7 @@
+The **Fall 2023 SciAuth student fellows** are:
+* Minh Phan (University of Illinois at Urbana-Champaign)
+* Vy Nguyen (Boston University)
+
 The **Spring 2023 SciAuth student fellows** were:
 * Connor Durkin (Grinnell College)
 * Hieu Tran (Case Western Reserve University)

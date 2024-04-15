@@ -1,5 +1,5 @@
 The **Spring 2024 SciAuth student fellows** are:
-* Ziya Xu (Grinnell College)
+* Ziya Xu (Grinnell College) - see [project report](https://doi.org/mrnf)
 
 The **Fall 2023 SciAuth student fellows** were:
 * Minh Phan (University of Illinois at Urbana-Champaign)

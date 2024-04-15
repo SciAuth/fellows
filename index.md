@@ -8,7 +8,7 @@ The **Fall 2023 SciAuth student fellows** were:
 The **Spring 2023 SciAuth student fellows** were:
 * Connor Durkin (Grinnell College)
 * Hieu Tran (Case Western Reserve University)
-* Jobair Hossain Faruk (Kennesaw State University)
+* Jobair Hossain Faruk (Kennesaw State University) - see publications: [[1](https://doi.org/ksxt)][[2](https://doi.org/mdnq)]
 * Uyen Le (Denison University)
 
 The **Fall 2022 SciAuth student fellows** were:

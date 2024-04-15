@@ -1,4 +1,4 @@
-The **Spring 2024 SciAuth student fellows** are:
+The **Spring 2024 SciAuth student fellow** was:
 * Ziya Xu (Grinnell College) - see [project report](https://doi.org/mrnf)
 
 The **Fall 2023 SciAuth student fellows** were:
